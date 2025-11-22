@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey! I'm Roua</h1>
 
 <p align="center">
-  <b>AI Engineering Student | Machine Learning </b>
+  <b>A Passionate AI Engineering Student </b>
 </p>
 
 
 ## 🚀 About Me
 
-🎓 AI engineering student  
+🎓 AI engineering student
 🤖 Passionate about **Machine Learning, NLP & creating Intelligent Systems**  
 💡 Building projects with real-world value: AI Agents, Resume Analyzer, Automated Test Generators 
 📚 Always learning and improving
