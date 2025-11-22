@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-🎓 AI engineering student from **Tunisia**  
+🎓 AI engineering student  
 🤖 Passionate about **Machine Learning, NLP & creating Intelligent Systems**  
 💡 Building projects with real-world value: AI Agents, Resume Analyzer, Automated Test Generators 
 📚 Always learning and improving
