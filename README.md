@@ -17,7 +17,7 @@
 
 ### 👩‍💻 Programming  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
 </p>
 
  
